@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.exercise-data/
+.exercise-results/
+results/
+mlruns/
+mlartifacts/
+*.db
